@@ -1,0 +1,15 @@
+bin/  
+include/  
+lib/   
+__pycache__/
+todo.pyc
+app.pyc
+pip-selfcheck.json
+.vscode/settings.json
+.vscode/launch.json
+.Python
+&lt;frozen importlib._bootstrap&gt;
+
+
+
+
